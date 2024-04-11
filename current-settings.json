@@ -1,0 +1,92 @@
+{
+	"workbench.colorTheme": "One Dark Pro Darker",
+	"workbench.iconTheme": "material-icon-theme",
+	"42header.email": "ryebadok@student.42quebec.com",
+	"42header.username": "ryebadok",
+	"terminal.integrated.fontFamily": "MesloLGS NF",
+	"terminal.integrated.automationShell.osx": "/bin/zsh",
+	// Place your settings in this file to overwrite the default settings
+	"breadcrumbs.enabled": false,
+	"editor.acceptSuggestionOnEnter": "on",
+	"editor.fontFamily": "'Source Code Pro', Menlo, Consolas, Courier, monospace",
+	"editor.formatOnSave": true,
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.quickSuggestions": {
+		"other": true,
+		"comments": true,
+		"strings": true
+	},
+	"[javascript, html, hbs, pug]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.renderWhitespace": "all",
+	"editor.snippetSuggestions": "top",
+	"editor.wordWrap": "bounded",
+	"editor.wrappingIndent": "indent",
+	"files.autoSave": "afterDelay",
+	"emmet.preferences": {
+		"format.forceIndentationForTags": [
+			"address,article,aside,audio,blockquote,body,canvas,div,dl,fieldset,figcaption,figure,footer,form,head,header,iframe,main,map,nav,object,ol,p,pre,section,style,table,tbody,td,tfoot,th,thead,tr,ul,video"
+		]
+	},
+	"extensions.ignoreRecommendations": true,
+	"files.exclude": {
+		"**/._*": true
+	},
+	"files.insertFinalNewline": true,
+	"html.format.endWithNewline": true,
+	"html.format.wrapAttributes": "force",
+	"html.format.extraLiners": "body",
+	"html.format.unformatted": "b,em,i,span,strong,wbr",
+	"html.format.wrapLineLength": 0,
+	"liveSassCompile.settings.autoprefix": null,
+	"liveSassCompile.settings.generateMap": false,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"liveServer.settings.port": 0,
+	"workbench.colorCustomizations": {
+		"editorIndentGuide.activeBackground": "#FFA500"
+	},
+	"workbench.editor.tabSizing": "shrink",
+	"workbench.editor.enablePreview": false,
+	"workbench.editor.enablePreviewFromQuickOpen": false,
+	"emmet.showSuggestionsAsSnippets": true,
+	"emmet.triggerExpansionOnTab": true,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact",
+		"razor": "html",
+		"plaintext": "pug"
+	},
+	"html.format.indentHandlebars": true,
+	"auto-rename-tag.activationOnLanguage": ["*"],
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"security.workspace.trust.untrustedFiles": "open",
+	"editor.insertSpaces": false,
+	"prettier.jsxSingleQuote": true,
+	"prettier.vueIndentScriptAndStyle": true,
+	"javascript.inlayHints.functionLikeReturnTypes.enabled": false,
+	"javascript.inlayHints.parameterTypes.enabled": false,
+	"javascript.inlayHints.propertyDeclarationTypes.enabled": false,
+	"javascript.inlayHints.variableTypes.enabled": false,
+	"emmet.includeLanguages": {
+		"ejs": "html"
+	},
+	"html.format.templating": true,
+	"prettier.endOfLine": "auto",
+	"prettier.htmlWhitespaceSensitivity": "strict",
+	"prettier.useTabs": true,
+	"prettier.tabWidth": 4,
+	"editor.tabCompletion": "on",
+	"editor.minimap.enabled": false,
+	"editor.tabSize": 2,
+	"prettier.enableDebugLogs": true,
+	"prettier.requireConfig": true,
+	"prettier.bracketSameLine": true,
+	"diffEditor.wordWrap": "on",
+	"notebook.output.wordWrap": true,
+	"editor.fontSize": 14,
+	"editor.stickyScroll.enabled": false,
+	"codesnap.boxShadow": "rgba(0, 0, 0, 0) 0px 20px 68px",
+	"codesnap.showLineNumbers": false,
+	"codesnap.transparentBackground": true,
+	"workbench.statusBar.visible": false,
+}
